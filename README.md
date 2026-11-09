@@ -1,0 +1,1 @@
+# Hori-Device-Manager-For-Xbox-Series-X-Series-S
