@@ -195,4 +195,4 @@ This repository serves as the official landing page for HORI Device Manager. The
 **Get the most recent version of HORI Device Manager today!**
 
 ---
-**Last updated:** 2026-11-13 14:27:49 UTC
+**Last updated:** 2026-11-13 21:19:45 UTC
